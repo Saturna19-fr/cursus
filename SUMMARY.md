@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Page](README.md)
+* [cursus](README.md)
+
+## Learn C
+
+* [L'input](learn-c/linput.md)
